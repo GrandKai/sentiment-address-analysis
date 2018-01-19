@@ -1,0 +1,10 @@
+#spring:
+#  data:
+#    mongodb:
+##      host: 172.27.88.8
+##      port: 27017
+##      database: test
+##      username:
+##      password:
+##      uri: mongodb://172.27.88.8,172.27.88.9,172.27.88.10/test
+#      uri: mongodb://172.27.88.8,172.27.88.9,172.27.88.10/test
